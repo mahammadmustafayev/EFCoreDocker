@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Io75UQWhzKEE+81bNTpiGMWN01sPSAXbYumfI3hXhMTrBOgCwC+q8Rd5aRNb3WSGpg7vzjb7r/p/95Z6a8895A==",
+  "dgSpecHash": "12FmOl6rmlFfBYnVLj5zGpTV05/IhHO/Gc41BDwdY6FhbFKLErystADSicnTBHiqrdhvxpIFkl+4mdvQkuJhIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahammadvm\\Desktop\\CodeFirstApp\\CodeFirstApp\\CodeFirstApp.csproj",
+  "projectFilePath": "C:\\Users\\mahammadvm\\Desktop\\EFCoreDocker\\CodeFirstApp\\CodeFirstApp\\CodeFirstApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahammadvm\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mahammadvm\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

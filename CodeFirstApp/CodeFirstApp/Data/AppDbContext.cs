@@ -13,7 +13,7 @@ internal class AppDbContext:DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Data Source=localhost; Initial Catalog=Northwind; uid=sa;pwd=Alaska2017;TrustServerCertificate=True;");
+        optionsBuilder.UseSqlServer(@"Server=localhost; database=CodeFirstDb; uid=sa;pwd=Alaska2017;TrustServerCertificate=True;");
     }
 
 }
